@@ -202,21 +202,6 @@ flowchart LR
 
 </details>
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MidhunPM6&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=MidhunPM6&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MidhunPM6&theme=github-compact&hide_border=true&area=true" alt="Contribution graph" width="95%"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
